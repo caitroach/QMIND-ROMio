@@ -6,6 +6,7 @@ We are using this camera in combination with MediaPipe's pretrained models to co
 
 ## team members
 Team lead: Cait Roach
+
 Design team: Hargun Kour, Basma Azeem, Augustine Osezua, Gavin Tan, Leif Hill, Nicholas Irons, Tharunika Gnaneshan
 
 ## related work
