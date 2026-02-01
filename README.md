@@ -9,7 +9,7 @@ Team lead: Cait Roach
 
 Design team: Hargun Kour, Basma Azeem, Augustine Osezua, Gavin Tan, Leif Hill, Nicholas Irons, Tharunika Gnaneshan
 
-## related work
+## related work and citations
 we used a lot of the math and code from these repos/studies, so please check them out too: 
 - https://arxiv.org/pdf/2310.07322 
 - https://www.researchgate.net/publication/322815664_Sitting_posture_assessment_using_computer_vision 
